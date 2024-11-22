@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: sorted.txt is faster than sort3.
+
+sort2 uses: Merge Sort
+
+How do you know?: random files run faster.
+
+sort3 uses: Selection Sort
+
+How do you know?: sorted files take too long but it's faster than sort 1 on reverse.txt.
